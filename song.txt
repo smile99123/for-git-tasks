@@ -1,0 +1,2 @@
+it's text of my favorite song
+and i create this file for send to github
